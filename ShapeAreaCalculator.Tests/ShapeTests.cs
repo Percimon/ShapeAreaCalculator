@@ -2,6 +2,10 @@
 
 namespace ShapeAreaCalculator.Tests;
 
+/// <summary>
+/// Имена методов теста приняты по следующей конвенции наименований:
+/// метод_сценарий_ожидаемое-поведение
+/// </summary>
 [TestClass]
 public class ShapeTests
 {
